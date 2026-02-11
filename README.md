@@ -54,7 +54,8 @@ Things I aim for:
 *I will always explore:*
 - ⚙️ Performance & scalability in system design
 - 🧩 Clean, maintainable code
-- 🔥 New ideas and trends
+
+🔥 New ideas and trends
 ---
 
 ## 🛠 Tech Stack
