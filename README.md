@@ -100,31 +100,6 @@ Things I aim for:
   <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/YouTrack-000000?style=for-the-badge&logo=youtrack&logoColor=white"/>
 </div>
----
-
-## 📌 Featured Projects
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Technologies Used</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🌍 <em>AutoSignal</em></td>
-      <td> Real world top secret problem solving idea xD. Soon to be released</td>
-      <td>Laravel • Postgresql • React Native • Tailwind • TypeScript • Docker</td>
-    </tr>
-    <tr>
-      <td>🌍 <em>TubeForge</em></td>
-      <td>TubeForge lets you build custom YouTube algorithms by creating keyword-based filters that surface exactly the content you want to   
-  watch</td>
-      <td>Next.js • TypeScript • Tailwind CSS • PostgreSQL • Prisma • NextAuth • Redis • Stripe • Docker</td>
-    </tr>
-  </tbody>
-</table>
 
 ---
 
